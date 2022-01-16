@@ -18,13 +18,13 @@ IN THIS ASSIGNMENT THERE ARE 12 FUNCTIONS BECAUSE THEY ARE THE MAJOR FUNCTIONS I
 
 This function is used to show the length of a string.
 
-![](RackMultipart20220116-4-1gtck5i_html_e973c9749874f616.png)
+![](./images/Page-2-Image-1.jpg)
 
 # 2. **strrev()**
 
 This function is used to show the reverse of a string.
 
-![](RackMultipart20220116-4-1gtck5i_html_e35474146641d31.png)
+![](./images/Page-2-Image-2.jpg)
 
 OUTPUT : Reverse :elosnoc
 
@@ -32,31 +32,31 @@ OUTPUT : Reverse :elosnoc
 
 This string function copies one string into another.
 
-![](RackMultipart20220116-4-1gtck5i_html_97da84398674cd09.png)
+![](./images/Page-3-Image-3.jpg)
 
 # 4. **strcmp()**
 
 This function is used to compare two strings.
 
-![](RackMultipart20220116-4-1gtck5i_html_3ba2a8dbca46c2c8.png)
+![](/images/Page-3-Image-3.jpg)
 
 # 5. **strlwr()**
 
 This function is used to convert the given input to lowercase.
 
-![](RackMultipart20220116-4-1gtck5i_html_3dd5b07d1ad657a8.png)
+![](./images/Page-3-Image-4.jpg)
 
 # 6. **strupr()**
 
 This function is used to convert the given input to upper case letter.
 
-![](RackMultipart20220116-4-1gtck5i_html_7f2acc4c91835e2b.png) ![](RackMultipart20220116-4-1gtck5i_html_e29763b3c7b60d7f.png)
+![](./images/Page-4-Image-5.jpg)
 
 # 7. **strcmpi()**
 
 This function is same to strcmp, but stcmpi negotiates case &quot;A&quot; and &quot;a&quot; are treated as same.
 
-![](RackMultipart20220116-4-1gtck5i_html_febf6d06c95f228a.png)
+![](./images/Page-4-Image-6.jpg)
 
 OUTPUT The return function is :0
 
@@ -64,28 +64,28 @@ OUTPUT The return function is :0
 
 Used to combine n characters of second string to first string.
 
-![](RackMultipart20220116-4-1gtck5i_html_f948ececc1ecc5dc.png)
+![](./images/Page-4-Image-7.jpg)
 
 # 9. **strncmp()**
 
 Used to compare n characters of second string to first string.
 
-![](RackMultipart20220116-4-1gtck5i_html_bbb79f86aa240d84.png)
+![](./images/Page-5-Image-8.jpg)
 
 # 10. **strncpy()**
 
 Copies given number of characters of one string to another.
 
-![](RackMultipart20220116-4-1gtck5i_html_974b6f7047f86bad.png)
+![](./images/Page-5-Image-9.jpg)
 
 # 11. **strstr()**
 
 This function returns pointer to first occurrence of str2 and str1.
 
-![](RackMultipart20220116-4-1gtck5i_html_be46ff9f4915e122.png)
+![](./images/Page-6-Image-10.jpg)
 
 # 12. **strcat()**
 
 This string function is used to combine two strings.
 
-![](RackMultipart20220116-4-1gtck5i_html_7c0372fd9d8f633.png)
+![](./images/Page-6-Image-11.jpg)
